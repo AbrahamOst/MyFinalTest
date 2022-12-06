@@ -1,0 +1,35 @@
+body {
+    background-color: #f4ebd2;
+}
+
+.container-fluid {
+    color: white;
+}
+
+#content1 {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.title1 {
+    color: #132620;
+    text-align: center;
+    padding-bottom: 1rem;
+}
+
+.content {
+    display: flex;
+}
+
+
+.foot {
+    background-color: aqua;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.foot p{
+    text-align: center;
+}
