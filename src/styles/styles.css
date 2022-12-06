@@ -29,9 +29,10 @@ body {
 
 
 .foot {
-    background-color: aqua;
+    background-color: #132620;
     padding-top: 2rem;
     padding-bottom: 2rem;
+    color: white;
 }
 
 .foot p{
