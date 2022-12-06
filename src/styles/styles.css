@@ -23,6 +23,10 @@ body {
     display: flex;
 }
 
+.title2 {
+    text-align: center;
+}
+
 
 .foot {
     background-color: aqua;
